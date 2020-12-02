@@ -16,8 +16,10 @@ public class Starting {
     public static void main(String[] args) {
         Tool saw = new Tool();
         saw.use();
-        
+        saw.getType();
+
         Car.go();
         Car.stop();
+
     }
 }

@@ -11,7 +11,14 @@ package package1;
  */
 public class Tool {
 
+    /**
+     * methood for loosers
+     */
     public void use() {
         System.out.println("Using tool!");
+    }
+
+    public int getType() {
+        return 12;
     }
 }
