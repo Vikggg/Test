@@ -11,7 +11,7 @@ package package2;
  */
 public class Car {
     public static void go(){
-        System.out.println("Goooing!");
+        System.out.println("Gooooooing!");
     }
     
     public static void stop(){
