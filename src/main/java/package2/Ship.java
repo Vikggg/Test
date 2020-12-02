@@ -12,7 +12,7 @@ package package2;
 public class Ship {
 
     public int getCount() {
-        return 10;
+        return 100;
     }
 
     public double getCost() {
