@@ -9,12 +9,8 @@ package package2;
  *
  * @author admin
  */
-public class Car {
-    public static void go(){
-        System.out.println("Gooooooooing!");
-    }
-    
-    public static void stop(){
-        System.out.println("Stoppppinggg!");
+public class Aircraft {
+    public void fly(){
+        System.out.println("Flyyying!");
     }
 }
