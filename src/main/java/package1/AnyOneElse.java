@@ -14,4 +14,8 @@ public class AnyOneElse {
     public void func2() {
         System.out.println("i am second!");
     }
+
+    public void func1() {
+        System.out.println("i am first!");
+    }
 }
