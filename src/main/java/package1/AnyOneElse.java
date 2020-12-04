@@ -10,5 +10,8 @@ package package1;
  * @author admin
  */
 public class AnyOneElse {
-    
+
+    public void func2() {
+        System.out.println("i am second!");
+    }
 }
