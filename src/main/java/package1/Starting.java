@@ -24,4 +24,8 @@ public class Starting {
         Car.stop();
 
     }
+    
+    public static void preparing(){
+        System.out.println("Prep");
+    }
 }
