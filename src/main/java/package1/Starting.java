@@ -19,6 +19,8 @@ public class Starting {
         saw.getType();
 
         Car.go();
+        
+        
         Car.stop();
 
     }
